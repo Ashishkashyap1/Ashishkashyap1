@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ashish Ojha</h1>
 
 <p align="center">
-  <i>"Building AI-powered tools that make job searching smarter, not harder."</i>
+  <i>"Building AI-Native tools and applications."</i>
 </p>
 
 <p align="center">
