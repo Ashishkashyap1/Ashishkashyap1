@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ashish Ojha</h1>
+<h1 align="center">Hey 👋, I'm Ashish Kashyap</h1>
 
 <p align="center">
   <i>"Building AI-Native tools and applications."</i>
