@@ -32,6 +32,7 @@ I work where **institutional finance meets software**. My background spans insti
 | **[Mutual Fund Overlap Analyser](https://mfoverlap.com)** · live | Client-side ISIN deduplication across **14,000+ AMFI schemes (44+ AMCs)** that shows how much two funds' holdings overlap. Found **~74%** overlap in live portfolio tests. | `Python` `Astro` `Data Eng.` |
 | **[Gratuity Calculator India](https://mygratuityindia.pages.dev)** · [source](https://github.com/Ashishkashyap1/Gratuity-Calculator-Website) | Production micro-SaaS that calculates gratuity under the Payment of Gratuity Act, 1972, including the Sec. 10(10) tax exemption. Private, instant and built for technical SEO. | `Astro` `Tailwind` `Cloudflare Pages` |
 | **[Quantitative Backtesting Suite](https://github.com/krayzius-wolf/AlgoTradeSystem)** *(co-developed)* | CLI that backtests and optimises RSI/SMA strategies on NSE equities using live broker-API candle data, with batch reports across a top-250 large & mid-cap universe. | `Python` `backtesting.py` `TA-Lib` `SmartAPI` |
+| **[ClarifyCare](https://clarifycare.in)** · live | D2C storefront for an Indian organic body-care brand. A headless Next.js front end reads prices and stock from the WooCommerce Store API, with a skin quiz that maps city, concerns and skin type to a routine. | `Next.js` `React` `Tailwind` `Zustand` `WooCommerce` |
 | **[LITSEARCH: AI-Native Job Search](https://github.com/Ashishkashyap1/J-Go-AI-Native-Job-search)** | Parses a CV, searches 7 job portals, scores each listing out of 100 behind a maker-checker QC gate, and exports a 5-sheet Excel report with a skills-gap analysis. | `Python` `Playwright` `PyMuPDF` `openpyxl` |
 | **Qvidian Migration Automation** *(Goldman Sachs, internal)* | Python pipelines that migrated legacy RFP and DDQ content into Qvidian, cutting manual due-diligence effort by 40% on the alternatives desk. | `Python` `Data pipelines` |
 
@@ -44,6 +45,8 @@ I work where **institutional finance meets software**. My background spans insti
 <img src="https://img.shields.io/badge/R-0a1122?style=flat-square&logo=r&logoColor=c9a96a" alt="R">
 <img src="https://img.shields.io/badge/pandas-0a1122?style=flat-square&logo=pandas&logoColor=c9a96a" alt="pandas">
 <img src="https://img.shields.io/badge/Playwright-0a1122?style=flat-square&logo=playwright&logoColor=c9a96a" alt="Playwright">
+<img src="https://img.shields.io/badge/Next.js-0a1122?style=flat-square&logo=nextdotjs&logoColor=c9a96a" alt="Next.js">
+<img src="https://img.shields.io/badge/React-0a1122?style=flat-square&logo=react&logoColor=c9a96a" alt="React">
 <img src="https://img.shields.io/badge/Astro-0a1122?style=flat-square&logo=astro&logoColor=c9a96a" alt="Astro">
 <img src="https://img.shields.io/badge/Tailwind_CSS-0a1122?style=flat-square&logo=tailwindcss&logoColor=c9a96a" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/Cloudflare_Pages-0a1122?style=flat-square&logo=cloudflare&logoColor=c9a96a" alt="Cloudflare Pages">
